@@ -1,0 +1,11 @@
+# Ignore Python cache and virtual environment
+__pycache__/
+*.pyc
+venv/
+
+# Ignore test outputs
+*.log
+*.pytest_cache/
+
+# Ignore OS/system files
+.DS_Store
